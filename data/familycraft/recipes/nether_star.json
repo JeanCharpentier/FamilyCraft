@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "S#S",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:emerald_block"
+        },
+        "S": {
+            "item": "minecraft:diamond_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:nether_star",
+        "count": 1
+    },
+    "group": "Custom_OOR"
+}
