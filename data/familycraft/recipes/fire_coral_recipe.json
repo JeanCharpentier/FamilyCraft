@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:fire_coral_block"
+        }
+    ],
+    "result": {
+        "item": "minecraft:fire_coral",
+        "count": 4
+    },
+    "group": "Custom_OOR"
+}
